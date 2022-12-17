@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcom to my pages site for hosting projects and documentation (coming soon).
